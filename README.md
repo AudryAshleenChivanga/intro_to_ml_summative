@@ -10,8 +10,7 @@ Glaucoma early detection is a major challenge in low-resource countries, such as
 The dataset contains retinal images stored in three directories: train, test, and val. These images are labeled according to the condition they represent. The dataset was sourced from Fundus Image Dataset on Kaggle : https://www.kaggle.com/datasets/sabari50312/fundus-pytorch
 
 ## Video Link  
-_(Click Here)_
-
+https://www.loom.com/share/50c70eb340bb4f979c93d47327d2d99f?sid=b854f3e7-51cf-44f5-b999-0445d0784514
 ## Findings  
 
 | Instance | Model               | Optimizer | Regularizer | Epochs | Early Stopping | Layers | Learning Rate | Accuracy | Loss  | Precision | Recall | F1-score | ROC-AUC |
